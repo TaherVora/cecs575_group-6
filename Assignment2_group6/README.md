@@ -11,5 +11,3 @@
   - `SingletonClass.pdf` (text file for prototype creational pattern)
   - `Singleton_ClassDiagram.jpeg` (Class Diagram)
   - `Singleton_CollaborationDiagram.jpeg` (Collaboration Diagram)
-
-
