@@ -2,6 +2,6 @@
 
 ## Project Tiltle: Online Buying, Selling & Bidding Application (Marketplace)
 
-- We have uploaded Zip folder(Assignment1_group6.zip) as well as all the Files.
+- Assignment 1: We have uploaded Zip folder(Assignment1_group6.zip) as well as all the Files.
 
-- We have uploaded Assignment1_group6 folder which consists of the implementation of creational pattern in our project.
+- Assignment 2: We have uploaded Assignment2_group6 folder which consists of the implementation of creational pattern in our project.
