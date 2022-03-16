@@ -1,18 +1,24 @@
-## Getting Started
+## Steps to run the code:
 
-<!-- Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
- -->
+- App.java file in the src folder contains the driver code.
+- In the console, specify the path to src folder and give the following commands:
+    - javac App.java 
+    - java App
+    
+- The inputs for Admin ID and Password are "adminID@marketplace.com" and "abc@123" respectively.
+
 ## Folder Structure
 
-The workspace contains two folders by default, where:
+In the workspace the folder /src/java contains the following:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- `abstractFactory` : This package consists the implementation of the Abstract Factory Creational Pattern. The functionality of the class 'Product' is implemented in this pattern.
+- `prototype` : This package consists the implementation of the Prototype Creational Pattern. The functionality of the class 'Payment' is implemented in this pattern.
+- `singletonClass` : This package consists the implementation of the Singleton Creational Pattern. The functionality of the class 'Admin' is implemented in this pattern.
+- `App.java` : This file consists of the Driver Code of the creational pattern implementation.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Dependency Management
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+
+
