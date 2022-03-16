@@ -16,9 +16,6 @@ In the workspace the folder /src/java contains the following:
 - `singletonClass` : This package consists the implementation of the Singleton Creational Pattern. The functionality of the class 'Admin' is implemented in this pattern.
 - `App.java` : This file consists of the Driver Code of the creational pattern implementation.
 
+## The output of the code is shown below:
 
-
-
-
-
-
+<img width="1400" height="600" alt="output" src="https://user-images.githubusercontent.com/79885052/158544926-a27c88da-f4ff-436e-8ca5-8697aaa2118a.png">
