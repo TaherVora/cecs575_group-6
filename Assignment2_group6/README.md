@@ -14,4 +14,4 @@
 
 ## The output of the code is shown below:
 
-<img width="1400" height="1000" alt="output_screenshot" src="https://user-images.githubusercontent.com/79885052/158544213-dc0d9a7a-5ea0-4d18-937e-8292fe659f89.png">
+<img width="1400" height="500" alt="output_screenshot" src="https://user-images.githubusercontent.com/79885052/158544213-dc0d9a7a-5ea0-4d18-937e-8292fe659f89.png">
