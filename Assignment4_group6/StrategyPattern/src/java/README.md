@@ -12,4 +12,4 @@
 ## Output of the implementation is:
 
 
-![output_strategy](https://user-images.githubusercontent.com/79885052/165044405-1a52da78-aadf-4c9b-b00f-1a8cc92cb96a.png)
+<img width="1300" alt="output_strategy" src="https://user-images.githubusercontent.com/79885052/165044405-1a52da78-aadf-4c9b-b00f-1a8cc92cb96a.png">
