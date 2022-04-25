@@ -6,4 +6,6 @@
 
 - Assignment 2: We have uploaded Assignment2_group6 folder which contains the implementation of creational pattern in our project.
 
-- Assignment 3: We have uploaded Assignment3_group6 folder which contains the implementation of structiral design pattern (facade).
+- Assignment 3: We have uploaded Assignment3_group6 folder which contains the implementation of structural design pattern (facade).
+
+- Assignment 4: We have uploaded Assignment4_group6 folder which contains the implementation of two behavioral pattern (iterator & strategy).
