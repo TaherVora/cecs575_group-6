@@ -3,14 +3,14 @@
   - `StrategyPattern` : Implementation of Strategy Design Pattern in java
 
 
-# The `IteratorPattern` consists of:
+# The `IteratorPattern` folder consists of:
 - src/java: source code implementation in java
 - IteratorPatternImplementation_Report: text file to provide more information on the implementation
 - Iterator_Pattern_Class_Diagram.jpeg: class diagram of the implementation
 - Iterator_Pattern_Sequence_Diagram.jpeg: sequence diagram of the implementation
 
 
-# The `StrategyPattern` consists of:
+# The `StrategyPattern` folder consists of:
 - src/java: source code implementation in java
 - StrategyPatternImplementation_Report: text file to provide more information on the implementation
 - Strategy_Pattern_Class_Diagram.jpeg: class diagram of the implementation
