@@ -11,4 +11,4 @@
 
 ## Output of the implementation is:
 
-<img width="690" alt="output" src="https://user-images.githubusercontent.com/79885052/165046010-2662253b-8ded-435c-a9d7-ff133685ee10.png">
+<img width="1300" alt="output" src="https://user-images.githubusercontent.com/79885052/165046262-8270362b-6c77-455e-9a55-9134df2766ca.png">
