@@ -11,5 +11,4 @@
 
 ## Output of the implementation is:
 
-
-<img width="1300" alt="output_strategy" src="https://user-images.githubusercontent.com/79885052/165044405-1a52da78-aadf-4c9b-b00f-1a8cc92cb96a.png">
+<img width="690" alt="output" src="https://user-images.githubusercontent.com/79885052/165046010-2662253b-8ded-435c-a9d7-ff133685ee10.png">
